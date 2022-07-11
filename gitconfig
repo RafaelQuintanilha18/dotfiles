@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rafael.quintanilha18@gmail.com
+	name = Rafael Quintanilha
